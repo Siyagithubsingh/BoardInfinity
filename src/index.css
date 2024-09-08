@@ -1,0 +1,13 @@
+/* font family */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;800;900;1000&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animation-container {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    margin: 0 auto; /* Center the animation if desired */
+  }
+  
